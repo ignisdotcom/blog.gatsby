@@ -14,7 +14,6 @@ I should like to start by saying three things:
 
 3. This is not my first post.
 
- [adipiscing](http://google.com)  eu pulvinar vel, sodales vitae dui. 
 
 My name is Javier Quinteros, I'm a twenty two years old chilean boy who is looking for happiness.
 I have always been a perfectionist person and when I was younger I though it was a good thing on me. But nowadays 'perfeccionism' stops me and make 

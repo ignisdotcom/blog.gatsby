@@ -39,6 +39,7 @@
     "redux": "^3.7.2",
     "redux-devtools-extension": "^2.13.2",
     "styled-components": "2.2.0",
+    "typography-theme-sutro": "^0.15.10",
     "what-input": "^5.0.3"
   },
   "devDependencies": {}
