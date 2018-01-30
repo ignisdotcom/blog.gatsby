@@ -8,11 +8,11 @@ cover: photo-1490474418585-ba9bad8fd0ea-cover.jpg
 
 I should like to start by saying three things:
 
-1. English is not my native lenguage.
+English is not my native lenguage.
 
-2. I'm not a writer.
+I'm not a writer.
 
-3. This is not my first post.
+This is not my first post.
 
 
 My name is Javier Quinteros, I'm a twenty two years old chilean boy who is looking for happiness.
